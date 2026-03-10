@@ -22,3 +22,5 @@ Portfolio project by Nayana Macharla | SQL Server | Medallion Architecture
 - LinkedIn: https://www.linkedin.com/in/nayana-macharla/
 - GitHub: https://github.com/nayana-macharla
 - Email: naynamachatla@gmail.com
+- LeetCode: https://leetcode.com/u/vHEl0fEGqa/
+- HackerRank: https://www.hackerrank.com/profile/nayanamachatla
