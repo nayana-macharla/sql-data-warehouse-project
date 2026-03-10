@@ -1,25 +1,24 @@
-﻿# SQL Data Warehouse Project
+# SQL Data Warehouse Project
 
-A complete Data Warehouse solution built using SQL Server and Medallion Architecture (Bronze to Silver to Gold). Portfolio project by Nayana Macharla.
+Portfolio project by Nayana Macharla | SQL Server | Medallion Architecture
 
 ## What I Built
-- Bronze to Silver to Gold Medallion Architecture
+- Bronze to Silver to Gold Architecture
 - ETL Pipelines using Stored Procedures
-- Star Schema design for analytics
-- Data Quality Checks across all layers
+- Star Schema for analytics
+- Data Quality Checks
 
 ## Tools Used
 - SQL Server Express + SSMS
-- T-SQL
-- Git and GitHub
+- T-SQL, Git, GitHub
 
 ## How to Run
-1. Install SQL Server Express and SSMS
+1. Install SQL Server Express + SSMS
 2. Clone this repo
-3. Run scripts/gold/init_database.sql first
-4. Run Bronze then Silver then Gold scripts in order
+3. Run scripts/gold/init_database.sql
+4. Run Bronze then Silver then Gold scripts
 
-## Connect with Me
+## Connect
 - LinkedIn: https://www.linkedin.com/in/nayana-macharla/
 - GitHub: https://github.com/nayana-macharla
 - Email: naynamachatla@gmail.com
